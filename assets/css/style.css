@@ -1,0 +1,21 @@
+
+
+nav {
+    font-size: 1in;
+    font-family: 'Baloo Paaji 2', cursive; 
+   
+    color: greenyellow;
+    background-color: blue;
+    height: 140px;
+    text-align: center;
+    text-size-adjust: 2in;
+
+}
+
+h3 {
+    font-family: 'Baloo Paaji 2', cursive;
+    font-size: 1in;
+    margin-left: 100px;
+    padding-top: 40px;
+}
+
